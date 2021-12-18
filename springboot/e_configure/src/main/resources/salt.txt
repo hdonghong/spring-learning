@@ -1,1 +1,0 @@
-salt=take_salt_for_myself:)

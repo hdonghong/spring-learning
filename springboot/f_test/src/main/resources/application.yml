@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    username: root
-    password: toor
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/test?characterEncoding=utf-8&useSSL=false
-  jpa:
-    open-in-view: true
